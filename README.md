@@ -1,10 +1,10 @@
-# TSE18
+# JSS18
 This tool implements our hybrid approach presented in our currently-under-review research paper.  
 
-![ScreenShot](https://github.com/seelprojects/TSE18/blob/master/src/image.png)
+![ScreenShot](https://github.com/seelprojects/JSS18/blob/master/src/image.png)
 
 ### Getting Started
-TSE18's main window provides following options:
+JSS18's main window provides following options:
 
 #### Dataset
 User can choose one of the 5 bug localization datasets available: AspectJ, Eclipse, JodaTime, SWT, and ZXing.
@@ -26,4 +26,4 @@ In order to open and modify the C# source project you will need:
 Once available, open BugLocalizationHybridApproach.sln in [src](src/) directory in Visual Studio.
 
 ### Resources
-The performance metric for all projects and method combinations are provided as an XML format. Users can find the XMLs in [src/BugLocalizationHybridApproach/Resources](src/BugLocalizationHybridApproach/Resources/). The full dataset can be downloaded from: [http://seel.cse.lsu.edu/data/tse18.zip](http://seel.cse.lsu.edu/data/tse18.zip).
+The performance metric for all projects and method combinations are provided as an XML format. Users can find the XMLs in [src/BugLocalizationHybridApproach/Resources](src/BugLocalizationHybridApproach/Resources/). The full dataset can be downloaded from: [http://seel.cse.lsu.edu/data/jss18.zip](http://seel.cse.lsu.edu/data/jss18.zip).
